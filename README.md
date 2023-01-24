@@ -4,7 +4,9 @@
 <p>🌱 I’m currently learning React Native</p>
 <p>🏆I'd like to work with experienced developers</p>
 <p>🚀I'm opened to everything new</p>
-<p>📫 How to reach me: </p>
+<p>📫 How to reach me: Linkedin: Anastasija Dzehtsiarova</p>
+## Stack
+VS code, JS, React, Git, Express, MongoDB, HTML/CSS, Adaptyve layout
 
 <!--
 **nargisi/nargisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
