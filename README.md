@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anastasija</h1> 
+<h1 align="center">Hi there, I'm Anastasija
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior frontender, looking for a new job</h3>
 
