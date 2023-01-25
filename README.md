@@ -6,7 +6,8 @@
 <p>🚀 I'm always open to new experiences</p>
 
 📫 How to reach me: <img src="/icons/icons8-ln.svg" height="12" /><a href="https://www.linkedin.com/in/anastasija-dzehtsiarova-037743261/">Anastasija Dzehtsiarova</a>
-                     <img src="/icons/icons8-telegram.svg" height="12" />@nargisiMinsk
+<img src="/icons/icons8-telegram.svg" height="12" /><a href="https://t.me/nargisiMinsk">nargisiMinsk</a>
+
 ### ⚙My stack:
 
 ![VS code](/icons/icons8-vs-code.svg)![JS](/icons/icons8-javascript.svg)![React](/icons/icons8-react-native.svg)![](/icons/icons8-html-5.png)![](/icons/icons8-css3.svg)![](/icons/icons8-git.svg)![](/icons/icons8-mongodb.png)![](/icons/icons8-express-js.svg)
