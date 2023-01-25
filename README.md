@@ -5,11 +5,11 @@
 <p>🏆 I'd like to work with experienced developers</p>
 <p>🚀 I'm always open to new experiences</p>
 
-📫 How to reach me:![Ln](/icons/icons8-ln.svg)<a href="https://www.linkedin.com/in/anastasija-dzehtsiarova-037743261/">Anastasija Dzehtsiarova</a>
+📫 How to reach me: ![Ln](/icons/icons8-ln.svg) <a href="https://www.linkedin.com/in/anastasija-dzehtsiarova-037743261/">Anastasija Dzehtsiarova</a>
 
 ### ⚙My stack:
 
-![VS code](/icons/icons8-vs-code.svg)![JS](/icons/icons8-javascript.svg)![React](/icons/icons8-react-native.svg)![](/icons/icons8-html-5.png)![](/icons/icons8-css3.svg)![](/icons/icons8-git.svg)![](/icons/icons8-mongodb.png)EXPRESS
+![VS code](/icons/icons8-vs-code.svg)![JS](/icons/icons8-javascript.svg)![React](/icons/icons8-react-native.svg)![](/icons/icons8-html-5.png)![](/icons/icons8-css3.svg)![](/icons/icons8-git.svg)![](/icons/icons8-mongodb.png)![](/icons/icons8-express-js.svg)
 
 <!--
 **nargisi/nargisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
