@@ -5,8 +5,8 @@
 <p>🏆 I'd like to work with experienced developers</p>
 <p>🚀 I'm always open to new experiences</p>
 
-📫 How to reach me: <img src="/icons/icons8-ln.svg" height="12" /><a href="https://www.linkedin.com/in/anastasija-dzehtsiarova-037743261/">Anastasija Dzehtsiarova</a>
-<img src="/icons/icons8-telegram.svg" height="12" /><a href="https://t.me/nargisiMinsk">nargisiMinsk</a>
+📫 How to reach me: <img src="/icons/icons8-ln.svg" height="12"/> <a href="https://www.linkedin.com/in/anastasija-dzehtsiarova-037743261/">Anastasija Dzehtsiarova</a>, 
+<img src="/icons/icons8-telegram.svg" height="12" /> <a href="https://t.me/nargisiMinsk">nargisiMinsk</a>
 
 ### ⚙My stack:
 
