@@ -5,11 +5,11 @@
 <p>🏆 I'd like to work with experienced developers</p>
 <p>🚀 I'm always open to new experiences</p>
 
-📫 How to reach me:![Ln](/icons/icons8-ln.svg) <a href="https://www.linkedin.com/in/anastasija-dzehtsiarova-037743261/">Anastasija Dzehtsiarova</a>
+📫 How to reach me:![Ln](/icons/icons8-ln.svg) [Link to](https://www.linkedin.com/in/anastasija-dzehtsiarova-037743261/)
 
-<h3>⚙My stack:</h3>
+### ⚙My stack:
 
-![VS code](/icons/icons8-visual-studio-code-2019.svg),![JS](/icons/icons8-javascript.svg),![React](/icons/icons8-react-native.svg),![](/icons/icons8-html-5.png)
+![VS code](/icons/icons8-visual-studio-code-2019.svg)![JS](/icons/icons8-javascript.svg)![React](/icons/icons8-react-native.svg)![](/icons/icons8-html-5.png)![](/icons/icons8-css3.svg)![](/icons/icons8-git.svg)![](/icons/icons8-mongodb.png)
 
 <p>VS code, JS, React, Git, Express, MongoDB, HTML/CSS, Adaptyve layout</p>
 
